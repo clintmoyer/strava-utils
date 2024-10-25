@@ -25,5 +25,13 @@ rate limits. Output to "activities.json" file.
 
 Line plot of monthly distance from activities in the previous year.
 
-![monthly distance line plot](https://github.com/user-attachments/assets/f7f57062-ad0c-4ec2-8594-9a26b5259da3)
+![monthly distance line plot](https://github.com/user-attachments/assets/7c0e4b0d-413f-4180-ac76-9b533169b52a)
+
+### Plot Annual Distance
+
+[plot\_annual\_distance.py](/plot_annual_distance.py)
+
+Bar chart of annual distance from activities in the past 5 years.
+
+![annual distance bar chart](https://github.com/user-attachments/assets/09128fb2-d53f-474c-8da9-2d2c23648867)
 
